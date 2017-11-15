@@ -4,4 +4,3 @@
 module.exports = {
   name: 'syncfusion-ember'
 };
-    fdfad
